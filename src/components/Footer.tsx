@@ -9,7 +9,7 @@ export default function Footer() {
         flexWrap: 'wrap', gap: 16,
       }}>
         <span style={{ fontSize: 14, color: 'var(--text-muted)' }}>
-          AXIOM &mdash; AI Agent Orchestration
+          AXIOM
         </span>
         <ul style={{ display: 'flex', gap: 24, listStyle: 'none', flexWrap: 'wrap' }}>
           <li><Link to="/docs" style={{ color: 'var(--text-muted)', fontSize: 13 }}>Docs</Link></li>
